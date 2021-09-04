@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#particles-js
+{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img1.jpg); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+}
+.logo
+{
+    margin-top: 25px;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+.welcome
+{
+    margin-left: 5%;
+    position: absolute;
+    color: #fff;
+    font-family: sans-serif;
+}
+.welcome h1
+{
+    margin-top: 220px;
+    letter-spacing: 2px;
+    font-size: 42px;
+    text-transform: uppercase;
+}
+.welcome p
+{
+    font-size: 16px;
+    margin-top: 25px;
+    font-family: monospace;
+}
+.welcome a
+{
+    background-color: #dccc1d;
+    color: black;
+    text-decoration: none;
+    letter-spacing: 2px;
+    position: fixed;
+    margin-top: 30px;
+    padding: 15px 30px;
+}
